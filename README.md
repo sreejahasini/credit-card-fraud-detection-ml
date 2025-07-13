@@ -53,8 +53,9 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+git clone git clone https://github.com/sreejahasini/credit-card-fraud-detection-ml.git
+cd credit-card-fraud-detection-ml
+
 Install required packages:
 
 bash
