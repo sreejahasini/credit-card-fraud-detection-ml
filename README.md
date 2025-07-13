@@ -80,4 +80,4 @@ Confusion Matrix Visualization
 This project is open-source and free to use. No license is applied, but feel free to add MIT License if you'd like others to use it freely.
 
 🙋‍♀️ Author
-Created by [Your Name] – Feel free to connect on GitHub or LinkedIn!
+Created by U.V.Sreeja Hasini – Feel free to connect on GitHub or LinkedIn!
